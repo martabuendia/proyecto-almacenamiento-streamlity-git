@@ -1,0 +1,4 @@
+Tecnología,Velocidad_Lectura_MBps,Velocidad_Escritura_MBps,Capacidad_TB,Costo_por_GB_USD,Fiabilidad_MTBF_horas,Consumo_Energético_W,Seguridad,Escalabilidad
+HDD,120,100,10,0.03,1500000,8,Básica,Baja
+SSD,550,500,2,0.15,2000000,3,Media,Media
+Nube,250,200,Ilimitada,0.06,99.99% (SLA),0,Alta,Muy alta
